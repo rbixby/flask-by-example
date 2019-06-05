@@ -57,3 +57,4 @@ docs/_build/
 # Virtual Environments
 venv/*
 .vscode
+.python-version
